@@ -1,0 +1,22 @@
+{
+  "items": [
+    { "id": 1, "listId": 1, "title": "Tomates", "quantity": 5, "price": 2.5 },
+    { "id": 2, "listId": 1, "title": "Pain complet", "quantity": 3, "price": 2.3 },
+    { "id": 3, "listId": 1, "title": "Yaourt nature", "quantity": 6, "price": 3.0 },
+    { "id": 4, "listId": 2, "title": "Maïs", "quantity": 4, "price": 1.5 },
+    { "id": 5, "listId": 2, "title": "Poulet mariné", "quantity": 3, "price": 12.0 },
+    { "id": 6, "listId": 2, "title": "Fromage grillé", "quantity": 2, "price": 6.0 },
+    { "id": 7, "listId": 2, "title": "Saucisses", "quantity": 8, "price": 18.0 },
+    { "id": 8, "listId": 3, "title": "Côte de boeuf", "quantity": 1, "price": 25.0 },
+    { "id": 9, "listId": 3, "title": "Légumes pour grillade", "quantity": 5, "price": 4.5 },
+    { "id": 10, "listId": 4, "title": "Glace", "quantity": 2, "price": 5.0 },
+    { "id": 11, "listId": 4, "title": "Chocolat au lait", "quantity": 4, "price": 3.2 },
+    { "id": 12, "listId": 4, "title": "Jus d'orange", "quantity": 3, "price": 6.0 }
+  ],
+  "lists": [
+    { "id": 1, "title": "Courses Semaine" },
+    { "id": 2, "title": "Courses pour BBQ" },
+    { "id": 3, "title": "Courses Viande" },
+    { "id": 4, "title": "Courses Enfants" }
+  ]
+}
